@@ -18,7 +18,7 @@ function whileLoop(n){
 function doWhileLoop(array){
   var myArray =["ciao", "bye", "hello", "Help"];
   function maybeTrue() {
-    return Math.random() <= 4 
+    return Math.random() <= 4
   };
   do {
     array.pop();
