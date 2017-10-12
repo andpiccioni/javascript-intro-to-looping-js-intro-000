@@ -16,7 +16,7 @@ function whileLoop(n){
 
 
 function doWhileLoop(array){
-  var myArray =["ciao", "bye", "hello", "Help"];
+  var myArray =["ciao", "bye"];
   function maybeTrue() {
     return Math.random() >= 0.5 // Returns a random number between 0 (inclusive) and 1 (exclusive)
   };
